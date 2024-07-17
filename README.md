@@ -27,3 +27,6 @@ Use a framework like Jest to manage and run your tests.
 
 ## Extensibility
 The application is designed to be easily extended with additional features, such as removing items from the cart or loading products from an API.
+
+## Result
+![image](https://github.com/user-attachments/assets/69661cad-6d9d-40e5-836c-da514c859672)
