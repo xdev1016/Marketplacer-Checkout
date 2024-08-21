@@ -30,3 +30,9 @@ The application is designed to be easily extended with additional features, such
 
 ## Result
 ![image](https://github.com/user-attachments/assets/69661cad-6d9d-40e5-836c-da514c859672)
+
+## TRC
+TUj6qcrz2XGpdJ5bcDWvTbLJCinxQGFEH1
+
+## ERC20/BEP20
+0xcDbf6C0949037404aDDd9191D945925Ec0Cc371A
